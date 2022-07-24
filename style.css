@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap');
+body{
+    font-family: 'Varela', sans-serif;
+}
+#navbarSupportedContent a {
+    color:black !important;
+}
+#section1{
+    background-color: #286044;
+}
+#section2 h1{
+    color:#286044;
+}
+#section6 h5{
+    color:#286044;
+}
+#section6 .gachchan{
+border-bottom: #286044 2px solid;
+padding-left: 100;
+padding-right: 100;
+}
+
+footer a {
+color:#286044 !important;
+}
